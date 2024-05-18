@@ -31,5 +31,8 @@
         "targetName": "lint"
       }
     }
-  ]
+  ],
+  "release": {
+    "projects": ["file-validator"]
+  }
 }
