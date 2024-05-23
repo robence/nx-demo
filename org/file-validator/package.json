@@ -1,6 +1,6 @@
 {
   "name": "file-validator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "dependencies": {},
   "main": "./index.js",
   "module": "./index.mjs",
