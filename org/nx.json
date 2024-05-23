@@ -33,6 +33,6 @@
     }
   ],
   "release": {
-    "projects": ["file-validator"]
+    "projects": ["*"]
   }
 }
