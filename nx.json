@@ -33,6 +33,11 @@
     }
   ],
   "release": {
-    "projects": ["*"]
+    "projects": ["*"],
+    "changelog": {
+      "workspaceChangelog": {
+        "createRelease": "github"
+      }
+    }
   }
 }
