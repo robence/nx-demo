@@ -5,6 +5,9 @@
   "main": "./index.js",
   "module": "./index.mjs",
   "typings": "./index.d.ts",
+  "repository": {
+    "url": "https://github.com/robence/nx-demo"
+  },
   "publishConfig": {
     "access": "public"
   }
