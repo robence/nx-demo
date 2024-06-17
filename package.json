@@ -1,9 +1,8 @@
 {
-  "name": "org",
+  "name": "robence",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
-  "private": true,
   "devDependencies": {
     "@nx/eslint": "19.0.4",
     "@nx/eslint-plugin": "19.0.4",
