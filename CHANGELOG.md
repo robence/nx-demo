@@ -1,3 +1,14 @@
+## 0.3.0 (2024-06-17)
+
+
+### 🚀 Features
+
+- add new feature ([1e82edf](https://github.com/robence/nx-demo/commit/1e82edf))
+
+### ❤️  Thank You
+
+- Bence Rózsa @robence
+
 ## 0.1.14 (2024-06-17)
 
 This was a version bump only, there were no code changes.
