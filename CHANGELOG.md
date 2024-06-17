@@ -1,3 +1,14 @@
+## 0.3.6 (2024-06-17)
+
+
+### 🚀 Features
+
+- add project release to github ([d615426](https://github.com/robence/nx-demo/commit/d615426))
+
+### ❤️  Thank You
+
+- Bence Rózsa @robence
+
 ## 0.3.5 (2024-06-17)
 
 This was a version bump only, there were no code changes.
