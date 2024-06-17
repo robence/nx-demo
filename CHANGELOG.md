@@ -1,3 +1,14 @@
+## 0.3.8 (2024-06-17)
+
+
+### 🩹 Fixes
+
+- add repo url to package ([fd287c2](https://github.com/robence/nx-demo/commit/fd287c2))
+
+### ❤️  Thank You
+
+- Bence Rózsa @robence
+
 ## 0.3.7 (2024-06-17)
 
 
