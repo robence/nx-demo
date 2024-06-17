@@ -1,3 +1,14 @@
+## 0.3.7 (2024-06-17)
+
+
+### 🩹 Fixes
+
+- add repo url ([253dc06](https://github.com/robence/nx-demo/commit/253dc06))
+
+### ❤️  Thank You
+
+- Bence Rózsa @robence
+
 ## 0.3.6 (2024-06-17)
 
 
