@@ -1,3 +1,14 @@
+## 0.3.1 (2024-06-17)
+
+
+### 🩹 Fixes
+
+- update package name ([eacdf06](https://github.com/robence/nx-demo/commit/eacdf06))
+
+### ❤️  Thank You
+
+- Bence Rózsa @robence
+
 ## 0.3.0 (2024-06-17)
 
 
