@@ -1,4 +1,5 @@
 export function fileValidator(): string {
+  console.log('add new feature')
   return 'file-validator'
 }
 
