@@ -1,5 +1,5 @@
 {
-  "name": "file-validator",
+  "name": "@robence/validator",
   "version": "0.3.0",
   "dependencies": {},
   "main": "./index.js",
