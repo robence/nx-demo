@@ -1,9 +1,8 @@
 {
   "name": "file-validator",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "dependencies": {},
   "main": "./index.js",
   "module": "./index.mjs",
-  "typings": "./index.d.ts",
-  "private": true
+  "typings": "./index.d.ts"
 }
