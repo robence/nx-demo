@@ -39,7 +39,12 @@
     },
     "changelog": {
       "workspaceChangelog": {
-        "createRelease": "github"
+        "createRelease": "github",
+        "renderOptions": {
+          "authors": false,
+          "commitReferences": true,
+          "versionTitleDate": true
+        }
       }
     }
   }
