@@ -38,7 +38,8 @@
       "conventionalCommits": true
     },
     "changelog": {
-      "workspaceChangelog": {
+      "workspaceChangelog": false,
+      "projectChangelogs": {
         "createRelease": "github",
         "renderOptions": {
           "authors": false,
