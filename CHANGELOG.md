@@ -1,3 +1,10 @@
+## 0.3.9 (2024-06-19)
+
+
+### 🩹 Fixes
+
+- remove authors from changelog ([e9feaf7](https://github.com/robence/nx-demo/commit/e9feaf7))
+
 ## 0.3.8 (2024-06-17)
 
 
